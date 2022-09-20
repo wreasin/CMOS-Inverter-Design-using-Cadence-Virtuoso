@@ -39,7 +39,7 @@ In DC and Transient Analysis i have measured input & output as Voltage, and Curr
 ![output2](https://github.com/wreasin/CMOS-Inverter-Design-using-Cadence-Virtuoso/blob/main/Image/All_Output_2.PNG?raw=true)
 
 #### Layout :
-In Layout i have use  Metal1. I have use here X & Y snap spacing is 0.012m and also the minimum width of metal utilized for routing is 0.012. 
+In Layout i have use  Metal1. I have use here X & Y snap spacing is 0.012m and also the minimum width of metal utilized for routing is 0.012.  
 ![Layout](https://github.com/wreasin/CMOS-Inverter-Design-using-Cadence-Virtuoso/blob/main/Image/Layout.PNG?raw=true)  
 
 #### Design Rule Check (DRC)  
