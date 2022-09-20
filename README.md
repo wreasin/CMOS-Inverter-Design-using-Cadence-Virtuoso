@@ -15,7 +15,7 @@ Here i have use __gpdk90n__ :-
     N.B. I'm measuring here input & output as Voltage and Current (I) in Output & VDD node.
 5. In Layout - Metals Used ( Metal1 )
 6. The minimum width of metal utilized for routing is 0.012
-7. DRC and LVS clear (there are no error)
+7. DRC and LVS clean (there are no error)
 
 ___Before i explain my project in details let you know one thing !___
 
