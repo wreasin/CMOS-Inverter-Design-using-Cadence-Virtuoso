@@ -14,7 +14,7 @@ Here i have use __gpdk90n__ :-
     ii ) DC Response  
     N.B. I'm measuring here input & output as Voltage and Current (I) in Output & VDD node.
 5. In Layout - Metals Used ( Metal1 ) and Poly Layer
-6. The minimum width of metal utilized for routing is 0.012
+6. The minimum width of metal utilized for routing is 0.12
 7. DRC and LVS clean (there are no error)
 
 ___Before i explain my project in details let you know one thing !___
@@ -39,7 +39,7 @@ In DC and Transient Analysis i have measured input & output as Voltage, and Curr
 ![output2](https://github.com/wreasin/CMOS-Inverter-Design-using-Cadence-Virtuoso/blob/main/Image/All_Output_2.PNG?raw=true)
 
 #### Layout :
-In Layout i have use  Metal1 and Poly Layer. I have use here X & Y snap spacing is 0.012m and also the minimum width of metal utilized for routing is 0.012.  
+In Layout i have use  Metal1 and Poly Layer. I have use here X & Y snap spacing is 0.012m and also the minimum width of metal utilized for routing is 0.12.  
 ![Layout](https://github.com/wreasin/CMOS-Inverter-Design-using-Cadence-Virtuoso/blob/main/Image/Layout.PNG?raw=true)  
 
 #### Design Rule Check (DRC)  
